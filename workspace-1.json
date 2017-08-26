@@ -1,0 +1,43 @@
+{
+    "border": "normal",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 434,
+       "width": 734,
+       "x": 0,
+       "y": 0
+    },
+    "name": "rt@localhost: ~",
+    "percent": 0.5,
+    "swallows": [
+       {
+          "class": "^Gnome-terminal$",
+          "instance": "^gnome-terminal-server$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "normal",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 434,
+       "width": 734,
+       "x": 0,
+       "y": 0
+    },
+    "name": "ranger",
+    "percent": 0.5,
+    "swallows": [
+       {
+          "class": "^Gnome-terminal$",
+          "instance": "^gnome-terminal-server$",
+          "title": "^Terminal$"
+       }
+    ],
+    "type": "con"
+}
+
